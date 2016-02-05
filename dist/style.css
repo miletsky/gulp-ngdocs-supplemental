@@ -16,13 +16,13 @@
 }
 
 [role=main].container .span3 {
-  width: 290px;
+  width: 280px;
 }
 
 [role=main].container .span9 {
   width: auto;
   float: none;
-  margin-left: 335px;
+  margin-left: 330px;
 }
 
 .form-search {
