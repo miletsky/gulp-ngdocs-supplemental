@@ -3,7 +3,7 @@
   "description": "Style improvements for gulp-ngdocs",
   "main": "dist/style.css",
   "authors": [
-    "Victor <victor.miletskiy@gmail.com>"
+    "Victor <victor@govright.org>",
   ],
   "license": "MIT",
   "homepage": "https://github.com/miletsky/gulp-ngdocs-supplemental",
@@ -12,7 +12,8 @@
     "**/.*",
     "node_modules",
     "bower_components",
-    "test",
-    "tests"
+    "sample",
+    "gulpfile.js",
+    "package.json"
   ]
 }

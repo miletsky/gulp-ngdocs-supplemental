@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/miletsky/gulp-ngdocs-supplemental.git"
   },
-  "author": "",
+  "author": "Victor <victor@govright.org>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/miletsky/gulp-ngdocs-supplemental/issues"
