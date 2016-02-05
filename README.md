@@ -10,7 +10,7 @@ generator.
 bower install git@github.com:miletsky/gulp-ngdocs-supplemental.git
 
 # Update
-bower update git@github.com:miletsky/gulp-ngdocs-supplemental.git
+bower update gulp-ngdocs-supplemental
 ```
 
 Add additional style to the `styles` array in your ngdocs bundle:
