@@ -19,7 +19,6 @@ Add additional style to the `styles` array in your ngdocs bundle:
 gulp.task('ngdocs', [], function () {
   var gulpDocs = require('gulp-ngdocs');
   var options = {
-    scripts: ['..'],
     html5Mode: true,
     startPage: '/api',
     // Add the style like this
