@@ -7,7 +7,7 @@ generator.
 
 ```bash
 # Install
-bower install git@github.com:miletsky/gulp-ngdocs-supplemental.git
+bower install git@github.com:vicmiletsky/gulp-ngdocs-supplemental.git
 
 # Update
 bower update gulp-ngdocs-supplemental
